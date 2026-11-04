@@ -240,6 +240,7 @@ I’m building my portfolio through coding exercises, practical mini-projects, a
   <p><strong>Disha Computer Institute</strong></p>
   <p>Koparkhairane</p>
   <p>Currently pursuing ADSP, focusing on programming concepts and practical software development skills.</p>
+         <p>Developing my skill in C,CPP,Java,Java Advance,Python,HTML,CSS,JavaScript</p>
   <a href="https://share.google/wsIhhYWfkmuQ1sdxD">
     <img src="https://img.shields.io/badge/VIEW%20INSTITUTE-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="View Disha Computer Institute" />
   </a>
