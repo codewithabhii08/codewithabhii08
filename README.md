@@ -216,10 +216,21 @@ I’m building my portfolio through coding exercises, practical mini-projects, a
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>💻 Bachelor of Technology (B.Tech) in Computer Science and Engineering</h3>
+      <p><strong>Dr. A.P.J. Abdul Kalam Technical University (AKTU)</strong></p>
+      <p>Uttar Pradesh, India</p>
+      <p>Undergraduate studies focused on computer science, programming, software development, and core engineering concepts.</p>
+      <a href="https://aktu.ac.in/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Dr.%20A.P.J.%20Abdul%20Kalam%20Technical%20University-AKTU-0F172A?style=for-the-badge&logo=googlescholar&logoColor=38BDF8" alt="Dr. A.P.J. Abdul Kalam Technical University (AKTU)" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎓 Diploma in Mechanical Engineering</h3>
       <p><strong>Suyash Institute of Information Technology</strong></p>
-      <p>Academic foundation in engineering and technical problem-solving.</p>
+      <p>Academic foundation in engineering principles and technical problem-solving.</p>
       <a href="https://share.google/hXMIvRDPCm8XqBffX">
         <img src="https://img.shields.io/badge/VIEW%20INSTITUTE-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="View Suyash Institute" />
       </a>
