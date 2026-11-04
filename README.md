@@ -236,16 +236,16 @@ I’m building my portfolio through coding exercises, practical mini-projects, a
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 Diploma in Software Programming</h3>
-      <p><strong>Disha Computer Institute</strong></p>
-      <p>Koparkhairane</p>
-      <p>Focused training in software programming and practical computing.</p>
-      <a href="https://share.google/wsIhhYWfkmuQ1sdxD">
-        <img src="https://img.shields.io/badge/VIEW%20INSTITUTE-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="View Disha Computer Institute" />
-      </a>
-    </td>
-  </tr>
-  <tr>
+  <h3>💻 Advanced Diploma in Software Programming (ADSP)</h3>
+  <p><strong>Disha Computer Institute</strong></p>
+  <p>Koparkhairane</p>
+  <p>Currently pursuing ADSP, focusing on programming concepts and practical software development skills.</p>
+  <a href="https://share.google/wsIhhYWfkmuQ1sdxD">
+    <img src="https://img.shields.io/badge/VIEW%20INSTITUTE-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="View Disha Computer Institute" />
+  </a>
+</td>
+</tr>
+<tr>
     <td colspan="2" valign="top">
       <h3>📐 AutoCAD 2D &amp; 3D Training</h3>
       <p><strong>CAD GENIUS Computer Training Center</strong></p>
