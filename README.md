@@ -18,13 +18,13 @@
   </p>
 
   <p>
-    <a href="https://github.com/codewithaviiee08">
-      <img src="https://komarev.com/ghpvc/?username=codewithaviiee08&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS" alt="Profile views" />
+    <a href="https://github.com/codewithabhi08">
+      <img src="https://komarev.com/ghpvc/?username=codewithabhii08&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS" alt="Profile views" />
     </a>
-    <a href="https://github.com/codewithaviiee08?tab=followers">
-      <img src="https://img.shields.io/github/followers/codewithaviiee08?style=for-the-badge&logo=github&label=FOLLOWERS&color=0EA5E9" alt="GitHub followers" />
+    <a href="https://github.com/codewithabhi08?tab=followers">
+      <img src="https://img.shields.io/github/followers/codewithabhi08?style=for-the-badge&logo=github&label=FOLLOWERS&color=0EA5E9" alt="GitHub followers" />
     </a>
-    <a href="https://github.com/codewithaviiee08?tab=repositories">
+    <a href="https://github.com/codewithabhi08?tab=repositories">
       <img src="https://img.shields.io/badge/Explore-Projects-111827?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore projects" />
     </a>
   </p>
@@ -71,7 +71,7 @@ To evolve into a skilled software developer, contribute to meaningful projects, 
 
 <div align="center">
 
-  <a href="https://github.com/codewithaviiee08?tab=repositories">
+  <a href="https://github.com/codewithabhi08?tab=repositories">
     <img src="https://img.shields.io/badge/VIEW%20MY%20PROJECTS-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View my projects" />
   </a>
   <a href="mailto:abhijeettiwari0408@gmail.com">
@@ -178,7 +178,7 @@ I’m building my portfolio through coding exercises, practical mini-projects, a
 
 <div align="center">
 
-  <a href="https://github.com/codewithaviiee08?tab=repositories">
+  <a href="https://github.com/codewithabhi08?tab=repositories">
     <img src="https://img.shields.io/badge/BROWSE%20ALL%20REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Browse all repositories" />
   </a>
 
@@ -311,7 +311,7 @@ I’m building my portfolio through coding exercises, practical mini-projects, a
   <a href="tel:8291480408">
     <img src="https://img.shields.io/badge/Phone-8291480408-0F172A?style=for-the-badge&logo=phone&logoColor=38BDF8" alt="Phone" />
   </a>
-  <a href="https://github.com/codewithaviiee08">
+  <a href="https://github.com/codewithabhi08">
     <img src="https://img.shields.io/badge/GitHub-Explore%20Profile-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
   </a>
 
@@ -357,9 +357,9 @@ I’m building my portfolio through coding exercises, practical mini-projects, a
   </p>
 
   <p><strong>SOFTWARE DEVELOPMENT · PROGRAMMING · CONTINUOUS LEARNING</strong></p>
-  <p>© Abhijeet Tiwari · <a href="https://github.com/codewithaviiee08">codewithaviiee08</a></p>
+  <p>© Abhijeet Tiwari · <a href="https://github.com/codewithabhi08">codewithaviiee08</a></p>
 
-  <a href="https://github.com/codewithaviiee08">
+  <a href="https://github.com/codewithabhi08">
     <img src="https://img.shields.io/badge/⭐%20FOLLOW%20MY%20GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Follow my GitHub" />
   </a>
 
